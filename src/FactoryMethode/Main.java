@@ -2,6 +2,13 @@ package FactoryMethode;
 
 import java.io.File;
 
+/*
+    To do:
+    - define hierarchy of objects
+    - design the arguments for the factory method.
+    - call Factory method during the runtime to instantiate the object that you need 
+ */
+
 public class Main {
 
     public static void main(String[] args) {
